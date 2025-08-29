@@ -10,7 +10,6 @@
   }
 }
 
-
 .checkbox-wrapper {
   position: relative;
 
@@ -19,7 +18,6 @@
     position: absolute;
     inset: 0;
   }
-
 
   .checkbox-image {
     flex: 0 0 1.5rem;
